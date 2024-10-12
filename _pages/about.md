@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Philippe Lei's Personal site!"
+title: "Welcome to Pengbiao Lei's Personal site!"
 author_profile: true
 redirect_from: 
   - /about/
